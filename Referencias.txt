@@ -1,0 +1,7 @@
+largura: 100%
+altura: 500px;
+background: -168deg ,#89ccf6 , #1523d6
+
+Fique por dentro das novidades !
+Cadastra-se na nossa lista vip de assinatens.
+Fique tranquilo, odiamos spam!
